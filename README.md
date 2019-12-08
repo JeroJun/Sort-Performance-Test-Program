@@ -9,7 +9,7 @@ Windows: [다운로드](https://github.com/JeroJun/Sort-Performance-Test-Program
 
 ## Usage example
 
-*데이터 입력 방법
+* 데이터 입력 방법
 
 Sort Performance Test_Data 폴더안에 Input 폴더가 존재합니다.
 
@@ -20,7 +20,7 @@ Sort Performance Test_Data 폴더안에 Input 폴더가 존재합니다.
 테스트 데이터 6개가 준비되어 있습니다. (PPT 데이터 기반)
 
 
-*프로그램 사용방법
+* 프로그램 사용방법
 
 TAB 키를 눌러 text 파일을 로드할 수 있습니다.
 
