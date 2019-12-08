@@ -1,6 +1,6 @@
-﻿using UnityEngine;
+﻿using TMPro;
+using UnityEngine;
 using UnityEngine.EventSystems;
-using TMPro;
 
 public class Button : MonoBehaviour, IPointerClickHandler
 {

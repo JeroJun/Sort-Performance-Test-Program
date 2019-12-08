@@ -1,6 +1,5 @@
-﻿using System.Collections;
+﻿using System.Text;
 using System.Collections.Generic;
-using System.Text;
 using UnityEngine;
 
 public class DataCreate : MonoBehaviour

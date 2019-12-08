@@ -66,7 +66,14 @@ public class GraphView : MonoBehaviour
 #if UNITY_EDITOR
             UnityEditor.EditorApplication.delayCall += () =>
             {
-                DestroyImmediate(child.gameObject);
+                try
+                {
+                    DestroyImmediate(child.gameObject);
+                }
+                catch
+                {
+                    // Nothing
+                }
             };
 #endif
         }
