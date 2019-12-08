@@ -1,24 +1,16 @@
 # Sort-Performance-Test-Program
-Unity3D를 이용해 개발한 정렬 알고리즘 성능평가 프로그램 입니다.
-
 [![Build Status][travis-image]][travis-url]
 
-One to two paragraph statement about your product and what it does.
+Unity3D를 이용해 개발한 정렬 알고리즘 성능평가 프로그램 입니다.
 
 ![](header.png)
 
 ## Installation
 
-OS X & Linux:
-
-```sh
-유니티에 드래그앤 드롭
-```
-
 Windows:
 
 ```sh
-유니티에 드래그앤 드롭
+https://github.com/JeroJun/Sort-Performance-Test-Program/blob/master/Compiled/%EC%8B%A4%ED%96%89%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.zip
 ```
 
 ## Usage example
