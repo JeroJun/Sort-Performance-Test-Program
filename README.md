@@ -3,8 +3,6 @@
 
 Unity3D를 이용해 개발한 정렬 알고리즘 성능평가 프로그램 입니다.
 
-![](header.png)
-
 ## Installation
 
 Windows:
