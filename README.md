@@ -1,7 +1,6 @@
 # Sort-Performance-Test-Program
 [![Build Status][travis-image]][travis-url]
-
-Unity3D를 이용해 개발한 정렬 알고리즘 성능평가 프로그램 입니다.
+> Unity3D를 이용해 개발한 정렬 알고리즘 성능평가 프로그램 입니다.
 
 ## Installation
 
